@@ -1,6 +1,6 @@
-## FRC Programming Book - Problem 1.3
+## FRC Programming Book - Problem 1.4
 
 Problem is from [*The Secret Book to FRC Programming*](https://www.chiefdelphi.com/t/the-secret-book-of-frc-labview/131136). 
 
 **Problem Statement:**
-![Problem 1.3](https://raw.githubusercontent.com/jbrusoe/LabVIEW/master/8FRCProgrammingBook/Chapter1/Problem1.3/Problem1.3-ProblemStatement.JPG)
+![Problem 1.4](https://raw.githubusercontent.com/jbrusoe/LabVIEW/master/8FRCProgrammingBook/Chapter1/Problem1.4/Problem1.4-ProblemStatement.JPG)
