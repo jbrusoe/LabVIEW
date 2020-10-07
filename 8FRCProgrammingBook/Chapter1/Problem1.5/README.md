@@ -5,6 +5,6 @@ Problem is from [*The Secret Book to FRC Programming*](https://www.chiefdelphi.c
 **Problem Statement:**
 ![Problem 1.5](https://raw.githubusercontent.com/jbrusoe/LabVIEW/master/8FRCProgrammingBook/Chapter1/Problem1.5/Problem1.5-Summary.JPG)
 
-<br?
+<br>
 
 ![Problem 1.5 Truth Table](https://raw.githubusercontent.com/jbrusoe/LabVIEW/master/8FRCProgrammingBook/Chapter1/Problem1.5/Problem1.5-TruthTable.JPG)
