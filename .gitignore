@@ -16,3 +16,4 @@
 *.lvlps
 .cache/
 5FRC-Programming/FRC-Frogbot/FRC-Frogbot.aliases
+*.aliases
